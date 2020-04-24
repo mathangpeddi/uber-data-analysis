@@ -1,1 +1,1 @@
-This folder all the datasets that I have used for this project.
+This folder contains all the datasets that I have used for this project.
